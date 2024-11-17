@@ -1,0 +1,4 @@
+google-generativeai
+streamlit
+protobuf==3.20.3
+python-dotenv
